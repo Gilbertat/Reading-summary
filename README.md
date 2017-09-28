@@ -45,4 +45,7 @@ Head First design Pattern
 * [Decorator pattern - 装饰者模式](https://github.com/Warriors-Reading-Club/Reading-summary/blob/master/Files/HeadFirstDesignPatterns/decorator_pattern.md)
 
 
+
 **欢迎爱读书的小伙伴们参加进来一起分享，一起进步！！**
+
+
